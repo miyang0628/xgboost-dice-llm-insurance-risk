@@ -32,19 +32,18 @@ xgboost-dice-llm-insurance-risk/
 ├── data/                          # Data directory (see Data section below)
 │   └── README_data.md             # KNHANES download instructions
 │
-├── notebooks/
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_eda.ipynb
-│   ├── 03_model_training_male.ipynb
-│   ├── 04_model_training_female.ipynb
-│   ├── 05_model_evaluation.ipynb
-│   ├── 06_lift_chart_highrisk.ipynb
-│   ├── 07_dice_counterfactual_male.ipynb
-│   ├── 08_dice_counterfactual_female.ipynb
-│   ├── 09_robustness_analysis.ipynb
-│   ├── 10_llm_prompt_engineering.ipynb
-│   ├── 11_llm_as_judge.ipynb
-│   └── 12_visualization_dashboard.ipynb
+├── 01_data_preprocessing.ipynb
+├── 02_eda.ipynb
+├── 03_model_training_male.ipynb
+├── 04_model_training_female.ipynb
+├── 05_model_evaluation.ipynb
+├── 06_lift_chart_highrisk.ipynb
+├── 07_dice_counterfactual_male.ipynb
+├── 08_dice_counterfactual_female.ipynb
+├── 09_robustness_analysis.ipynb
+├── 10_llm_prompt_engineering.ipynb
+├── 11_llm_as_judge.ipynb
+├── 12_visualization_dashboard.ipynb
 │
 ├── outputs/                       # Generated figures and result files
 ├── catboost_info/                 # CatBoost training logs (auto-generated)
