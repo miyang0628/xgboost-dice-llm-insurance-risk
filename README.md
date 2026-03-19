@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10](https://img.shields.io/badge/Python-3.10.15-blue.svg)](https://www.python.org/)
-[![Under Review](https://img.shields.io/badge/Status-Manuscript%20in%20Preparation-lightgrey.svg)]()
+[![Under Review](https://img.shields.io/badge/Status-Manuscript%20in%20Preparation-lightgrey.svg)](https://github.com/miyang0628/xgboost-dice-llm-insurance-risk)
 
 > **From Risk Score to Risk Narrative: Counterfactual XAI and LLM Guides for Proactive Insurance Risk Communication**  
 > Munil Yang, Heuiju Chun — *manuscript in preparation*
