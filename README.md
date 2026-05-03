@@ -5,7 +5,6 @@
 [![Under Review](https://img.shields.io/badge/Status-Under%20Review-lightgrey.svg)](https://github.com/miyang0628/xgboost-dice-llm-insurance-risk)
 
 > **From Risk Score to Risk Narrative: Counterfactual XAI and LLM-Based Health Risk Communication for Insurance Underwriting**  
-> *manuscript under review, Journal of Risk and Insurance*
 
 ---
 
