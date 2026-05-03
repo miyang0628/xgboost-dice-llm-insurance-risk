@@ -187,12 +187,7 @@ The current proof-of-concept uses the OpenAI cloud API. A GDPR-compliant product
 If you use this code, please cite:
 
 ```bibtex
-@article{anon2025riskscore,
-  title   = {From Risk Score to Risk Narrative: Counterfactual {XAI}
-             and {LLM}-Based Health Risk Communication for Insurance Underwriting},
-  author  = {Anonymous},
-  journal = {manuscript under review},
-  year    = {2025}
+
 }
 ```
 
